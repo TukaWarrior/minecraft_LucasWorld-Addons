@@ -1,0 +1,11 @@
+{
+    "type": "smelting",
+    "ingredient": {
+      "item": "minecraft:obsidian"
+    },
+    "result": {
+      "id": "minecraft:bedrock"
+    },
+    "experience": 1,
+    "cookingtime": 320
+  }

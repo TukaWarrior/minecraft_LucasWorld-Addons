@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "b",
+      "s"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:stick"
+      },
+      "b": {
+        "item": "minecraft:bedrock"
+      }
+    },
+    "result": {
+      "item": "minecraft:debug_stick",
+      "count": 1
+    }
+  }

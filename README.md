@@ -1,1 +1,2 @@
+This repository contains my own custom datapack and resouce pack I use in my personal Minecraft world. 
 To use this pack, archive the resources folder into resources.zip and put it into the root directory of the minecraft world. 

@@ -4,6 +4,6 @@
       "item": "minecraft:obsidian"
     },
     "result": "minecraft:bedrock",
-    "experience" : 0.5,
+    "experience" : 5.0,
     "cookingtime": 320
 }

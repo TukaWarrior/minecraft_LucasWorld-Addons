@@ -6,9 +6,14 @@
       "lll"
     ],
     "key": {
-      "l": {
-        "item": "minecraft:leather"
-      },
+      "l": [
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        }
+      ],
       "s": {
         "item": "minecraft:string"
       }
